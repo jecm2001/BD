@@ -1,0 +1,23 @@
+{
+"usuario_rol": [
+	{
+		"id_usuario" : 1,
+		"nombre_usuario" : "usuario1",
+		"password" : "password1",
+		"rol" : "admin",
+		"compania_id" : 1,
+		"cedula" : "123456789",
+		"genero" : "M",
+		"cel" : "555-1234"
+	},
+	{
+		"id_usuario" : 2,
+		"nombre_usuario" : "usuario2",
+		"password" : "password2",
+		"rol" : "empleado",
+		"compania_id" : 2,
+		"cedula" : "987654321",
+		"genero" : "F",
+		"cel" : "555-5678"
+	}
+]}

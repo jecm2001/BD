@@ -1,0 +1,17 @@
+{
+"config_marca": [
+	{
+		"config_id" : 1,
+		"report_type" : "reporte1.xlsx",
+		"logo_path" : "C:\\Users\\pasantepharitech1\\Desktop\\BD\\409REP_CET00.png",
+		"header_text" : "REPORTE - TRANSPORTES VIGÍA",
+		"footer_text" : "Transportes Vigía S.A.S 2023 | Todos los derechos reservados ©"
+	},
+	{
+		"config_id" : 2,
+		"report_type" : "reporte3.csv",
+		"logo_path" : "C:\\Users\\pasantepharitech1\\Desktop\\BD\\410REP_FCT00.png",
+		"header_text" : "REPORTE - VIGÍA SERVICIO ESPECIAL",
+		"footer_text" : "Transportes Vigía S.A.S 2023 | Todos los derechos reservados ©"
+	}
+]}

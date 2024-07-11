@@ -1,0 +1,94 @@
+{
+"informe": [
+	{
+		"id" : 1,
+		"consecutivo" : 24,
+		"tipo_novedad" : "Informacion al cliente",
+		"estado_ruta" : "En tránsito",
+		"estado_vehiculo" : "Cargado",
+		"observacion" : "Por San Pedro de la Paz Santander",
+		"latitud" : 6.178220,
+		"longitud" : -73.589130,
+		"fecha" : "2024-07-02",
+		"hora" : "09:34:24",
+		"usuario" : "Juan Carlos estupiñan Cortes"
+	},
+	{
+		"id" : 2,
+		"consecutivo" : 25,
+		"tipo_novedad" : "Seguridad Vial",
+		"estado_ruta" : "Prevencion vial",
+		"estado_vehiculo" : "Cargado",
+		"observacion" : "preveccion de seguridad vial, cinturon de seguridad",
+		"latitud" : 6.178220,
+		"longitud" : -73.589130,
+		"fecha" : "2024-07-02",
+		"hora" : "16:21:11",
+		"usuario" : "Juan Carlos estupiñan Cortes"
+	},
+	{
+		"id" : 3,
+		"consecutivo" : 26,
+		"tipo_novedad" : "Informacion al cliente",
+		"estado_ruta" : "En tránsito",
+		"estado_vehiculo" : "Cargado",
+		"observacion" : "Proximo al burro cesar",
+		"latitud" : 8.873380,
+		"longitud" : -73.662080,
+		"fecha" : "2024-07-02",
+		"hora" : "16:21:38",
+		"usuario" : "Juan Carlos estupiñan Cortes"
+	},
+	{
+		"id" : 4,
+		"consecutivo" : 27,
+		"tipo_novedad" : "Informacion al cliente",
+		"estado_ruta" : "Permoctando",
+		"estado_vehiculo" : "Cargado",
+		"observacion" : "en loma colorada hotel la troncal",
+		"latitud" : 9.904870,
+		"longitud" : -73.841540,
+		"fecha" : "2024-07-02",
+		"hora" : "21:05:08",
+		"usuario" : "edward leandro quintero bermudez"
+	},
+	{
+		"id" : 5,
+		"consecutivo" : 28,
+		"tipo_novedad" : "Informacion al cliente",
+		"estado_ruta" : "Permoctando",
+		"estado_vehiculo" : "Cargado",
+		"observacion" : "en loma colorada hotel la troncal",
+		"latitud" : 9.904870,
+		"longitud" : -73.841540,
+		"fecha" : "2024-07-03",
+		"hora" : "03:35:22",
+		"usuario" : "edward leandro quintero bermudez"
+	},
+	{
+		"id" : 6,
+		"consecutivo" : 29,
+		"tipo_novedad" : "Seguridad Vial",
+		"estado_ruta" : "Prevencion vial",
+		"estado_vehiculo" : "Cargado",
+		"observacion" : "cinturon de seguridad, no exceder limites de seguridad",
+		"latitud" : 6.178220,
+		"longitud" : -73.589130,
+		"fecha" : "2024-07-03",
+		"hora" : "09:00:45",
+		"usuario" : "Angel Yesid Parra Garzon"
+	},
+	{
+		"id" : 7,
+		"consecutivo" : 30,
+		"tipo_novedad" : "Informacion al cliente",
+		"estado_ruta" : "En tránsito",
+		"estado_vehiculo" : "Cargado",
+		"observacion" : "delante de san jacinto bolivar",
+		"latitud" : 9.829020,
+		"longitud" : -75.122620,
+		"fecha" : "2024-07-03",
+		"hora" : "09:01:19",
+		"usuario" : "Angel Yesid Parra Garzon"
+	}
+]}
